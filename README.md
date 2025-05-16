@@ -2,8 +2,6 @@
 
 **Pulse Sniper Bot** is a high-speed, automated trading bot designed to snipe newly launched tokens on **PulseChain** and other EVM-compatible blockchains. It monitors the mempool for token creation and liquidity events, executing ultra-fast buy orders before most traders can react.
 
-> ⚠️ For **educational and research** purposes only. Use at your own risk.
-
 ---
 
 ## 🧠 Features
