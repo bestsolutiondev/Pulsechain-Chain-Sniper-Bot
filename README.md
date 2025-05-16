@@ -21,6 +21,6 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/pulse-snipe-bot.git
+git clone https://github.com/bestsolutiondev/pulse-snipe-bot.git
 cd pulse-snipe-bot
 npm install
